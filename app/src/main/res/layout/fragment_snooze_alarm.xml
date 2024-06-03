@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/snoozeOnOffSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:switchPadding="50sp" />
+
+        <RadioGroup
+            android:id="@+id/snoozeFreqRadioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <RadioButton
+                android:id="@+id/freqRadioButton_three"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeFreq_three" />
+
+            <RadioButton
+                android:id="@+id/freqRadioButton_five"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeFreq_five" />
+
+            <RadioButton
+                android:id="@+id/freqRadioButton_ten"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeFreq_ten" />
+
+            <RadioButton
+                android:id="@+id/freqRadioButton_custom"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeFreq_custom" />
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/snoozeFreqEditText"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:autofillHints="30"
+            android:background="@drawable/bg_item_main_edit"
+            android:ems="10"
+            android:hint="@string/snoozeFreq_customHint"
+            android:inputType="number"
+            android:padding="10dp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/snoozeFrequencyLabel" />
+
+        <View
+            android:id="@+id/divider9"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="10dp"
+            android:background="@color/xam_nhat" />
+
+        <View
+            android:id="@+id/divider10"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="10dp"
+            android:background="@color/xam_nhat" />
+
+        <TextView
+            android:id="@+id/textView9"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/snoozeIntervalLabel" />
+
+        <RadioGroup
+            android:id="@+id/snoozeIntervalRadioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+
+            <RadioButton
+                android:id="@+id/intervalRadioButton_five"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeInterval_five" />
+
+            <RadioButton
+                android:id="@+id/intervalRadioButton_ten"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeInterval_ten" />
+
+            <RadioButton
+                android:id="@+id/intervalRadioButton_fifteen"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeInterval_fifteen" />
+
+            <RadioButton
+                android:id="@+id/intervalRadioButton_custom"
+                style="@style/style_15sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/snoozeInterval_custom" />
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/snoozeIntervalEditText"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_item_main_edit"
+            android:ems="10"
+            android:hint="@string/snoozeFreq_customHint"
+            android:importantForAutofill="no"
+            android:inputType="number"
+            android:padding="10dp" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</RelativeLayout>

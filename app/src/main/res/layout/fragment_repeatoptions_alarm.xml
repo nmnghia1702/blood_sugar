@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/cbSun"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/sunday" />
+
+        <CheckBox
+            android:id="@+id/cbMon"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/monday" />
+
+        <CheckBox
+            android:id="@+id/cbTue"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/tuesday" />
+
+        <CheckBox
+            android:id="@+id/cbWed"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/wednesday" />
+
+        <CheckBox
+            android:id="@+id/cbThu"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/thursday" />
+
+        <CheckBox
+            android:id="@+id/cbFri"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/friday" />
+
+        <CheckBox
+            android:id="@+id/cbSat"
+            style="@style/style_15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="@string/saturday" />
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</RelativeLayout>

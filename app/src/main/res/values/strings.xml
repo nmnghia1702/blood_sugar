@@ -1,0 +1,413 @@
+<resources>
+    <string name="app_name">Blood Sugar</string>
+
+    <string name="new_record">New record</string>
+    <string name="edit_record">Edit record</string>
+    <string name="history">History</string>
+    <string name="remind_me">Remind Me</string>
+
+    <string name="data_tracking_analysis">Data Tracking and Analysis</string>
+
+    //home
+    <string name="recent">Recent</string>
+    <string name="average">Average</string>
+    <string name="all">All</string>
+
+    //info
+    <string name="about_blood">Know about blood sugar</string>
+    <string name="prevent_disease">Prevent Disease</string>
+    <string name="know_blood_sugar">Do you know blood sugar?</string>
+    <string name="low_blood_sugar">What is low blood sugar?</string>
+    <string name="high_blood_sugar">What is high blood sugar?</string>
+    <string name="monitoring_blood_sugar">Monitoring blood sugar</string>
+    <string name="knowledge_of_diabetes">Knowledge of Diabetes</string>
+    <string name="low_hypoglycemia">Low Blood Sugar (Hypoglycemia)</string>
+    <string name="treat_low_blood_sugar">How To Treat Low Blood Sugar</string>
+    <string name="prediabetes">Prediabetes - Prevent Type 2</string>
+    <string name="type_diabetes">What is Type 1 Diabetes?</string>
+    <string name="type_diabetess">What is Type 2 Diabetes?</string>
+    <string name="gestational">Gestational Diabetes</string>
+
+    <string name="content_know_blood_sugar">
+        <b><i>What is blood sugar?</i></b>\n\n
+Blood sugar, or glucose, is the main sugar found
+in your blood. It comes from the food you eat,
+and is your body of main source of energy. Your
+blood carries glucose to all of your body of cells
+to use for energy.\n\n\n
+<b><i>How can I check my blood sugar?</i></b>\n\n
+Use a blood sugar meter (also called a
+glucometer) or a continuous glucose monitor
+(CGM) to check your blood sugar. A blood sugar
+meter measures the amount of sugar in a small
+sample of blood, usually from your fingertip. A
+CGM uses a sensor inserted under the skin to
+measure your blood sugar every few minutes. If
+you use a CGM, you\'ll still need to test daily with
+a blood sugar meter to make sure your CGM
+readings are accurate.\n\n\n
+        <b><i>When should I check my blood sugar?</i></b>\n\n
+        How often you check your blood sugar depends
+on the type of diabetes you have and if you take
+any diabetes medicines.
+Typical times to check your blood sugar include:\n
+. When you first wake up, before you eat or drink
+anything.\n
+· Before a meal.\n
+· Two hours after a meal.\n
+. At bedtime.</string>
+    <string name="content_low_blood_sugar">
+        <b><i>What causes low blood sugar?</i></b>\n\n
+Low blood sugar (also called hypoglycemia)
+has many causes, including missing a meal,
+taking too much insulin, taking other diabetes
+medicines, exercising more than normal, and
+drinking alcohol. Blood sugar below 70 mg/dL is
+considered low.\n\n
+Signs of low blood sugar are different for
+everyone. Common symptoms include:\n
+· Shaking.\n
+· Sweating.\n
+· Nervousness or anxiety.\n
+· Irritability or confusion.\n
+. Dizziness.\n
+• Hunger.\n\n\n
+        <b><i>How can I treat low blood sugar?</i></b>\n\n
+Carry supplies for treating low blood sugar with
+you. If you feel shaky, sweaty, or very hungry or
+have other symptoms, check your blood sugar.
+Even if you don\'t have symptoms but think you
+may have low blood sugar, check it.\n\n
+If your blood sugar is lower than 70 mg/dL, do
+one of the following immediately:\n
+• Take four glucose tablets.\n
+• Drink four ounces of fruit juice.\n
+• Drink four ounces of regular soda, not diet
+soda.\n
+- Eat four pieces of hard candy.\n\n
+    Wait for 15 minutes and then check your blood
+sugar again. Do one of the above treatments
+again until your blood sugar is 70 mg/dL or
+above and eat a snack if your next meal is an
+hour or more away.</string>
+    <string name="content_high_blood_sugar"><b><i>What causes blood sugar to be high?</i></b>\n\n
+Many things can cause high blood sugar (hyperglycemia), including being sick, being stressed, eating more than planned, and not giving yourself enough insulin. Over time, high blood sugar can lead to long-term, serious health problems.\n\n
+Symptoms of high blood sugar include:\n
+· Feeling very tired.\n
+· Feeing thirsty.\n
+· Having blurry vision.\n
+· Needing to urinate (pee) more often.\n\n\n
+        <b><i>How can I treat high blood sugar?</i></b>\n\n
+    Talk to your doctor about how to keep your blood sugar levels within your target range. Your doctor may suggest the following:\n
+        · Be more active. Regular exercise can help keep your blood sugar levels on track. Important: don\'t exercise if ketones are present in your urine. This can make your blood sugar go even higher.\n
+        · Take medicine as instructed. If your blood sugar is often high, your doctor may change how much medicine you take or when you take it.\n
+        · Follow your diabetes meal plan. Ask your doctor or dietitian for help if you\'re having trouble sticking to it.\n
+        · Check your blood sugar as directed by your doctor. Check more often if you\'re sick or if you\'re concerned about high or low blood sugar.\n
+        · Talk to your doctor about adjusting how much insulin you take and what types of insulin (such as short-acting) to use.</string>
+
+    <string name="content_monitoring_blood_sugar"><b><i>How to Use a Blood Sugar Meter</i></b>\n \n
+There are different kinds of meters, but most of them work the same way. Below are tips for how to use a blood sugar meter. \n
+1. Make sure the meter is clean and ready to use. \n
+2. After removing a test strip, immediately close the test strip container tightly. Test strips can be damaged if they are exposed to moisture. \n
+3. Wash your hands with soap and warm water. Dry well. Massage your hand to get blood into your finger. Don\'t use alcohol because it dries the skin too much. \n
+4. Use a lancet to prick your finger. Squeezing from the base of the finger, gently place a small amount of blood onto the test strip. Place the strip in the meter. \n
+5. After a few seconds, the reading will appear. Track and record your results. Add notes about anything that might have made the reading out of your target range, such as food, activity, etc.
+6. Properly dispose the lancet and strip in a trash container. \n
+7. Do not share blood sugar monitoring equipment, such as lancets, with anyone, even other family members. For more safety information, please see Infection Prevention during Blood Glucose Monitoring and Insulin Administration.\n
+8. Store test strips in the container provided. Do not expose them to moisture, extreme heat, or cold temperatures.\n \n
+
+        <b><i>Getting an A1C Test </i></b>\n \n
+A1C results tell you your average blood sugar level over 3 months. A1C results may be different in people with hemoglobin problemsexternal icon such as sickle cell anemia. Work with your doctor to decide the best A1C goal for you. Follow your doctor\'s advice and recommendations.
+Your A1C result will be reported in two ways:\n
+        · A1C as a percentage. \n
+        · Estimated average glucose (eAG), in the same, kind of numbers as your day-to-day blood sugar readings.</string>
+
+    <string name="content_knowledge_of_diabetes"><b><i>What is Diabetes?</i></b> \n\n
+Your body breaks down most of the food you eat into sugar and releases it into your bloodstream. When your blood sugar goes up, it signals your pancreas to release insulin. Insulin acts like a key to let the blood sugar into your body\'s cells for use as energy.\n
+With diabetes, your body doesn\'t make enough insulin or can\'t use it as well as it should. \n
+When there isn\'t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems. \n
+There are three main types of diabetes: type 1, type 2, and gestational diabetes.\n\n\n
+
+        <b><i>Useful tips</i></b> \n\n
+        There isn\'t a cure yet for diabetes, but losing weight, eating healthy food, and being active can really help.Other things you can do to help: \n
+       ·  Take medicine as prescribed. \n
+       ·  Get diabetes self-management education and support.\n
+       ·  Make and keep health care appointments.</string>
+
+    <string name="content_low_hypoglycemia"><b><i>Causes of Low Blood Sugar</i></b> \n\n
+There are many reasons why you may have low blood sugar, including: \n
+· Taking too much insulin. \n
+· Not eating enough carbs for how much insulin you take. \n
+· Timing of when you take your insulin. \n
+· The amount and timing of physical activity. \n
+· Drinking alcohol. \n
+· How much fat, protein, and fiber are in your meal.\n
+· Hot and humid weather. \n
+· Unexpected changes in your schedule.\n
+· Spending time at a high altitude. \n
+· Going through puberty. \n
+· Menstruation.\n\n\n
+
+        <b><i>Symptoms of Low Blood Sugar</i></b> \n
+How you react to low blood sugar may not be the same as how someone else with low blood sugar reacts. It\'s important to know your signs. Common symptoms may include: \n
+· Fast heartbeat Shaking \n
+· Sweating \n
+· Nervousness or anxiety \n
+· Irritability or confusion \n
+· Dizziness \n
+· Hunger</string>
+
+    <string name="content_treat_low_blood_sugar"><b><i>The 15-15 Rule </i></b>\n\n
+For low blood sugar between 55-69 mg/dL, raise it by following the 15-15 rule: have 15 grams of carbs and check your blood sugar after 15 minutes. If it\'s still below your target range, have another serving. Repeat these steps until it\'s in your target range. Once it\'s in range, eat a nutritious meal or snack to ensure it doesn\'t get too low again.\n\n\n
+
+        <b><i>Treating Severely Low Blood Sugar</i></b> \n\n
+Blood sugar below 55 mg/dL is considered severely low. You won\'t be able to treat it using the 15-15 rule. You also may not be able to check your own blood sugar or treat it by yourself, depending on your symptoms. Make sure your family members, friends, and caregivers know your signs of low blood sugar so they can help treat it if needed. Injectable glucagon is the best way to treat severely low blood sugar. A glucagon kit is available by prescription. Speak with your doctor to see if you should have a kit. Be sure to learn how and when to use it. Let family members and others close to you know where you keep the glucagon kit and make sure they\'ve been trained in how to use it too.</string>
+
+    <string name="content_prediabetes"><b><i>What is prediabetes?</i></b>\n\n
+        Prediabetes is a serious health condition where blood sugar levels are higher than normal, but not high enough yet to be diagnosed as type 2 diabetes. Approximately 96 million American adults-more than 1 in 3-have prediabetes. Of those with prediabetes, more than 80% don\'t know they have it. Prediabetes puts you at increased risk of developing type 2 diabetes, heart disease, and stroke.\n\n\n
+
+        <b><i>Signs - Symptoms</i></b>\n\n
+
+You can have prediabetes for years but have no clear symptoms, so it often goes undetected until serious health problems such as type 2 diabetes show up. It\'s important to talk to your doctor about getting your blood sugar tested if you have any of the risk factors for prediabetes, which include:\n
+        ·Being overweight Being 45 years or older \n
+        · Having a parent, brother, or sister with type 2 diabetes \n
+        · Being physically active less than 3 times a week \n
+        · Ever having gestational diabetes (diabetes during pregnancy) or giving birth to a baby who weighed more than 9 pounds \n
+        · Having polycystic ovary syndrome</string>
+
+    <string name="content_type_diabetes"><b><i>What Causes Type 1 Diabetes?</i></b> \n\n
+ype 1 diabetes is thought to be caused by an autoimmune reaction (the body attacks itself by mistake). This reaction destroys the cells in the pancreas that make insulin, called beta cells. This process can go on for months or years before any symptoms appear. \n
+Some people have certain genes (traits passed on from parent to child) that make them more likely to develop type 1 diabetes. However, many of them won\'t go on to have type 1 diabetes even if they have the genes. A trigger in the environment, such as a virus, may also play a part in developing type 1 diabetes. Diet and lifestyle habits don\'t cause type 1 diabetes.\n\n\n
+
+        <b><i>Symptoms and Risk Factors </i></b>\n\n
+It can take months or years before symptoms of type 1 diabetes are noticed. Type 1 diabetes symptoms can develop in just a few weeks or months. Once symptoms appear, they can be severe. \n
+
+Some type 1 diabetes symptoms are similar to symptoms of other health conditions. Don\'t guess! If you think you could have type 1 diabetes, see your doctor to get your blood sugar tested. Untreated diabetes can lead to very serious-even fatal health problems. Risk factors for type 1 diabetes are not as clear as for prediabetes and type 2 diabetes. However, studies show that family history plays a part.</string>
+
+    <string name="content_type_diabetess"><b><i>What Causes Type 2 Diabetes?</i></b> \n\n
+Insulin is a hormone made by your pancreas that acts like a key to let blood sugar into the cells in your body for use as energy. If you have type 2 diabetes, cells don\'t respond normally to insulin; this is called insulin resistance. Your pancreas makes more insulin to try to get cells to respond. Eventually your pancreas can\'t keep up, and your blood sugar rises, setting the stage for prediabetes and type 2 diabetes. High blood sugar is damaging to the body and can cause other serious health problems, such as heart disease, vision loss, and kidney disease.\n\n\n
+
+        <b><i>Symptoms and Risk Factors</i></b>\n\n
+Type 2 diabetes symptoms often develop over several years and can go on for a long time without being noticed (sometimes there aren\'t any noticeable symptoms at all). Because symptoms can be hard to spot, it\'s important to know the risk factors and to see your doctor to get your blood sugar tested if you have any of them.</string>
+
+
+    <string name="content_gestational"><b><i>What Causes Gestational Diabetes?</i></b> \n\n
+Gestational diabetes occurs when your body can\'t make enough insulin during your pregnancy. Insulin is a hormone made by your pancreas that acts like a key to let blood sugar into the cells in your body for use as energy. During pregnancy, your body makes more hormones and goes through other changes, such as weight gain. These changes cause your body\'s cells to use insulin less effectively, a condition called insulin resistance. Insulin resistance increases your body\'s need for insulin.\n
+
+All pregnant women have some insulin resistance during late pregnancy. However, some women have insulin resistance even before they get pregnant. They start pregnancy with an increased need for insulin and are more likely to have gestational diabetes. \n\n\n
+        <b><i>Symptoms and Risk Factors</i></b>\n\n
+ Gestational diabetes typically doesn\'t have any symptoms. Your medical history and whether you have any risk factors may suggest to your doctor that you I could have gestational diabetes, but you\'ll need to be tested to know for sure.</string>
+
+    //add
+    <string name="before_exercise">Before exercise</string>
+    <string name="date_time">Date &amp; Time</string>
+    <string name="save">SAVE</string>
+    <string name="condition">Condition</string>
+    <string name="before_meal">Before a meal</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="type_delete">Are you sure you want to delete?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="content_dia_add">You already have a piece of data at this time. Do you need to cover it or add a new piece of data?</string>
+    <string name="cover_it">Cover it?</string>
+    <string name="add">ADD</string>
+    <string name="cover">COVER</string>
+
+    //viewTaget
+    <string name="edit_target_range">Edit Target Range</string>
+    <string name="defaultt">Default</string>
+    <string name="for_conditions">For all unspecified conditions</string>
+    <string name="low">Low</string>
+    <string name="normal">Normal</string>
+    <string name="pre_diabetes">Pre-diabetes</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="fasting">Fasting</string>
+    <string name="after_meal_1h">After a meal(1h)</string>
+    <string name="after_meal_2h">After a meal(2h)</string>
+    <string name="after_exercise">After exercise</string>
+    <string name="asleep">Asleep</string>
+    <string name="content_view_target">The range of blood sugar data is personal. The following are the default international blood sugar standards. If you want a more accurate blood data range, please consult your doctor.</string>
+
+    //language
+    <string name="language">Country</string>
+    <string name="england">England</string>
+    <string name="portugal">Portugal</string>
+    <string name="france">France</string>
+    <string name="korea">Korea</string>
+    <string name="japan">Japan</string>
+    <string name="spain">Spain</string>
+    <string name="india">India</string>
+    <string name="germany">Germany</string>
+    <string name="other">Other</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //IntroduceActivity
+    <string name="next">NEXT</string>
+    <string name="letsgo">LET\'S GO</string>
+    <string name="skipintro">Skip Intro</string>
+    <string name="type0">Data Tracking and Recording</string>
+    <string name="type1">professional Chart Analysis</string>
+    <string name="type2">Learning about Blood Sugar</string>
+
+    <string name="content0">Track, record and analyze your blood sugar</string>
+    <string name="content1">Observe blood sugar trends more clarity</string>
+    <string name="content2">Learn profrssional health knowledge and lifestyle</string>
+
+    //fm Setting
+    <string name="export">Export your data</string>
+    <string name="rate">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="feedback">Feedback</string>
+    <string name="about">About us</string>
+    <string name="privacy"><u>Privacy Policy</u></string>
+    <string name="terms"><u>Terms of Service</u></string>
+
+    //alarm
+    <string name="alarmType">Alarm type:</string>
+    <string name="repeatButton">Repeat:</string>
+    <string name="repeatNone">Off</string>
+    <string name="alarmVolumeLabel">Alarm Volume:</string>
+    <string name="snoozeLabel">Snooze:</string>
+    <string name="snoozeOffLabel">Off</string>
+    <string name="alarmDateLabel">Alarm date:</string>
+    <string name="alarmDate">%te\u0020%tm,\u0020%tY</string>
+    <string name="alarmToneLabel">Alarm tone:</string>
+    <string name="alarmMessageLabel">Alarm message:</string>
+    <string name="alarmMessage_default">Not set</string>
+    <string name="add_alarm">ADD ALARM</string>
+
+    <string-array name="alarmTypeSpinnerEntries">
+        <item>Sound</item>
+        <item>Vibrate</item>
+        <item>Sound &amp; Vibrate</item>
+    </string-array>
+
+    <string name="snoozeOptionsTV_snoozeOn">%d mins, %d times</string>
+    <string name="defaultAlarmToneText">Default alarm tone</string>
+    <string name="notifAction">Dismiss alarm.</string>
+    <string name="notifContent_snooze">Alarm snoozed.</string>
+    <string name="notif_channel_name_ring_alarms">Ringing alarms</string>
+    <string name="notif_channel_name_snoozed_alarms">Snoozed alarms</string>
+    <string name="notif_channel_error">Errors</string>
+    <string name="notif_channel_update">Updating alarms</string>
+    <string name="notifContent_ring">Alarm ringing. Tap to launch alarm screen.</string>
+
+    //AlertDialogDiscardChanges
+    <string name="cancelDialogMessage">Discard changes?</string>
+    <string name="cancelDialog_positive">Yes</string>
+    <string name="cancelDialog_negative">No</string>
+
+    //Activity_AlarmDetails
+    <string name="actionBarTitle_newAlarm">New alarm</string>
+    <string name="actionBarTitle_editAlarm">Edit alarm</string>
+    <string name="actionBarTitle_snoozeOptions">Snooze options</string>
+    <string name="actionBarTitle_repeatOptions">Repeat options</string>
+    <string name="actionBarTitle_dateOptions">Alarm date</string>
+    <string name="actionBarTitle_alarmMessage">Alarm message</string>
+
+    //RepeatOptionsAlarmFragment
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+
+    <string name="pickDateLabel">Pick a date:</string>
+    <string name="message_label">Enter the alarm message in no more than 50 characters:</string>
+    <string name="switchOn">On</string>
+    <string name="switchOff">Off</string>
+
+    <string name="snoozeFrequencyLabel">Snooze frequency:</string>
+    <string name="snoozeFreq_three">3 times</string>
+    <string name="snoozeFreq_five">5 times</string>
+    <string name="snoozeFreq_ten">10 times</string>
+    <string name="snoozeFreq_custom">Custom frequency:</string>
+    <string name="snoozeFreq_customHint">Enter a number</string>
+
+    <string name="snoozeIntervalLabel">Snooze interval:</string>
+    <string name="snoozeInterval_five">5 minutes</string>
+    <string name="snoozeInterval_ten">10 minutes</string>
+    <string name="snoozeInterval_fifteen">15 minutes</string>
+    <string name="snoozeInterval_custom">Custom interval (in mins):</string>
+    <string name="snoozeInterval_customHint">Enter interval</string>
+    <string name="updateAlarm_alarmMissedTitle">Alarm missed!</string>
+    <string name="updateAlarm_alarmMissedText">The alarm at %s did not ring.</string>
+    <string name="error_notif_body">Alarms could not be set due to missing permission. Tap to see details.</string>
+    <string name="error_notif_title">Error in setting alarms!</string>
+    <string name="updateAlarm_notifMessage">Activating alarms. This may take a while…</string>
+    <string name="require_permission_exact_alarms">Require permission to set exact alarms</string>
+    <string name="request_exact_alarm_perm">On Android S and higher, the app needs permission to schedule exact alarms. Without this, no alarm can
+        be set. Please go to Settings and enable this permission to continue setting an alarm.</string>
+    <string name="grant_permission">Missing permission</string>
+    <string name="perm_granted">Thanks for the permission. Setting up alarms. You may close the app.</string>
+    <string name="alarmMessage">Alarm</string>
+    <string name="alarmTime_24hour">%02d:%02d</string>
+    <string name="snoozeAlarm">Snooze</string>
+    <string name="time_24hour">%02d:%02d</string>
+    <string name="time_12hour">%d:%02d\u0020%s</string>
+    <string name="date">%s,\u0020%02d\u0020%s</string>
+
+    //RingtonePickerActivity
+    <string name="chooseCustomTone">Choose from storage</string>
+    <string name="defaultTone">Default</string>
+    <string name="silentTone">Silent</string>
+    <string name="play_tone">Play tone</string>
+    <string name="ringtonePicker_defaultTitle">Select tone:</string>
+    <string name="settingsMenuItem">Settings</string>
+    <string name="permissionReasonExp_ringtonePicker">This app needs permission to read your device storage
+        so that it can read the tones. Without this permission, the app will not work. Give the permission?</string>
+    <string name="powerBtnOp">If I press the <b>power button</b> when an alarm rings,</string>
+    <string name="settings_title">Settings</string>
+    <string name="shakeOp">If I <b>shake</b> the phone when an alarm rings,</string>
+    <string name="settings_snoozeOps"><b>Default snooze options</b>\n<small>(These will be the default snooze options
+        when you create a new alarm.)</small></string>
+    <string name="settings_snoozeInterval">Snooze interval in minutes:</string>
+    <string name="settings_snoozeFreq">Snooze frequency:</string>
+    <string name="settings_theme">Choose the theme:</string>
+    <string name="settings_toneUri">Default alarm tone:</string>
+    <string name="settings_volume">Default alarm volume:</string>
+    <string name="settings_toneCheckbox">Automatically set new tones I select as default tones for new alarms</string>
+    <string name="settings_shakeSensitivityMainLabel"><b>Shake sensitivity settings</b>\n<small>Test the sensitivity of the shake
+        detector, and change it as you wish</small></string>
+    <string name="shakeSensitivityChangeLabel"><small>Change sensitivity:</small></string>
+    <string name="leastSensitiveLabel">\u2191\nLeast\nsensitive</string>
+    <string name="mostSensitiveLabel">\u2191\nMost\nsensitive</string>
+    <string name="testShake"><small><b>Test shake sensitivity</b>\nTap to enable the shake detector so that you can
+        choose the sensitivity that correctly suits you.</small></string>
+    <string name="sound">Sound</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="sound_and_vibrate">Sound &amp; Vibrate</string>
+    <string name="toast_alarmDeleted">The alarm at %s was deleted successfully.</string>
+    <string name="toast_alarmSwitchedOff">The alarm at %s was switched off.</string>
+    <string name="and">\u0020and\u0020</string>
+
+    <plurals name="day">
+        <item quantity="one">\u0020day</item>
+        <item quantity="other">\u0020days</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="one">\u0020hour</item>
+        <item quantity="other">\u0020hours</item>
+    </plurals>
+    <plurals name="mins">
+        <item quantity="one">\u0020minute</item>
+        <item quantity="other">\u0020minutes</item>
+    </plurals>
+    <string name="toast_alarmSwitchedOn">Alarm set for %s from now.</string>
+
+    <string name="batteryOptim_message">Please disable battery optimizations for this app. If this app is
+        optimized, it might not be able to ring the alarm.</string>
+    <string name="batteryOptim_title">Disable battery optimizations</string>
+    <string name="batteryOptim_positive">Proceed</string>
+    <string name="batteryOptim_negative">Maybe later</string>
+    <string name="batteryOptim_neutral">Never show again</string>
+    <string name="no_data">No Data Yet!</string>
+
+
+    <string name="oil_price">Oil Price</string>
+    <string name="price_in_last_12_days">Price in last 12 days</string>
+    <string name="set_a_alarm">Set a alarm to remind me to record blood Sugar better.</string>
+</resources>

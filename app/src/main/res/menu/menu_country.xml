@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.androidhive.recyclerviewsearch.MainActivity">
+    <item
+        android:id="@+id/action_continer"
+        android:icon="@drawable/check_small_svgrepo_com"
+        android:title="Upgrade Premium"
+        app:showAsAction="always" />
+</menu>

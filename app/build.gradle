@@ -1,0 +1,92 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'kotlin-kapt'
+}
+
+android {
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.diabetes.bloodsugar"
+        minSdk 21
+        targetSdk 32
+        versionCode 105
+        versionName "1.0.5"
+
+        multiDexEnabled true
+    }
+
+    signingConfigs {
+        key_release {
+            keyAlias 'key0'
+            keyPassword 'duoihinhbc'
+            storeFile file('../release/duoihinhbc.keystore')
+            storePassword 'duoihinhbc'
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.key_release
+        }
+
+        debug {
+            minifyEnabled false
+            debuggable true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.key_release
+        }
+    }
+
+    buildFeatures{
+        viewBinding true
+    }
+
+    compileOptions {
+        coreLibraryDesugaringEnabled true
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    lintOptions {
+        disable 'ApplySharedPref'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:1.1.5'
+    implementation "androidx.room:room-runtime:2.4.1"
+    annotationProcessor "androidx.room:room-compiler:2.4.1"
+    implementation "android.arch.persistence.room:runtime:1.0.0"
+
+    implementation "android.arch.lifecycle:extensions:1.1.0"
+    kapt "android.arch.lifecycle:compiler:1.1.0"
+    kapt "android.arch.persistence.room:compiler:1.0.0"
+    implementation "com.android.support:multidex:1.0.3"
+
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.7.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.telpoo.frame:telpooLitle:3.0.8'
+    implementation 'com.github.f0ris.sweetalert:library:1.6.2'
+    implementation 'com.github.MackHartley:RoundedProgressBar:1.0.1'
+    implementation 'com.github.zhpanvip:viewpagerindicator:1.0.7'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+    implementation 'com.google.android.gms:play-services-ads:22.1.0'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.0.2'
+    implementation 'com.github.WrichikBasu:AudioFocusController:v2.1'
+    implementation 'com.github.cachapa:ExpandableLayout:2.9.2'
+    implementation "androidx.work:work-runtime:2.7.1"
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+}
